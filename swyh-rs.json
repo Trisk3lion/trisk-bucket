@@ -4,7 +4,7 @@
     "license": "MIT",
     "version": "1.3.19",
     "url": "https://github.com/dheijl/swyh-rs/releases/download/1.3.19/swyh-rs-1.3.19.zip",
-    "hash": "e6d6ebefa8f19df2611a78042733fcbafa2d64a34e73e045f358919f53dbc440",
+    "hash": "6dcf7f68430a4428d5cfb6be58f604f1dfa5423f9225d45d570d80f14503d27e",
     "bin": [
         "swyh-rs.exe",
     ],
