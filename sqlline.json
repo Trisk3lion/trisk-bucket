@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
+    "homepage": "https://github.com/julianhyde/sqlline",
+    "license": "BSD-3",
+    "version": "1.12.0",
+    "url": "https://github.com/julianhyde/sqlline/archive/refs/tags/sqlline-1.12.0.zip",
+    "hash": "6c3d023f63d10bbe50bb69819972db59c015db00f59d3cf2b924581214c22204",
+    "bin": [
+        "bin\\sqlline.bat",
+    ],
+    "checkver": {
+        "url": "https://github.com/julianhyde/sqlline/releases/tag",
+        "re": "sqlline-([\\d\\w.-]+)"
+    },
+    "autoupdate": {
+        "url": "https://github.com/julianhyde/sqlline/archive/refs/tags/sqlline-$version.zip"
+    },
+    "shortcuts": [
+        [
+            "bin\\sqlline.bat",
+            "sqlline"
+        ]
+    ]
+}
