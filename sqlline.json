@@ -4,7 +4,7 @@
     "license": "BSD-3",
     "version": "1.12.0",
     "url": "https://github.com/julianhyde/sqlline/archive/refs/tags/sqlline-1.12.0.zip",
-    "hash": "6c3d023f63d10bbe50bb69819972db59c015db00f59d3cf2b924581214c22204",
+    "hash": "d577dbe9f67a6e8b4b2b2b319b9d278578f9dfe841bae3644d1d7acfbfcba9ec",
     "bin": [
         "bin\\sqlline.bat",
     ],
@@ -22,3 +22,4 @@
         ]
     ]
 }
+3
