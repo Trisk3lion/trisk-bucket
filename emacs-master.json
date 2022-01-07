@@ -2,16 +2,15 @@
     "$schema": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
     "homepage": "https://github.com/Trisk3lion/emacs-build",
     "license": "GPLv3",
-    "version": "0.211201.a7dfb2acf",
-    "url": "https://github.com/Trisk3lion/emacs-build/releases/download/v0.211201.a7dfb2acf/emacs-master-x86_64-full.zip",
-    "hash": "7FD0D971D64A79D6F1F44D8BDADB03230DF77246288996006B08BD434BB59F42",
+    "version": "0.220102.b2167d984",
+    "url": "https://github.com/Trisk3lion/emacs-build/releases/download/v0.220102.b2167d984/emacs-master-x86_64-full.zip",
+    "hash": "2EFE397BBD27950C74EA8AA22E6C44BCD74DDD6CD24A1C026C1C111101C6CB17",
     "bin": [
         "bin\\runemacs.exe",
         "bin\\emacs.exe",
         "bin\\emacsclient.exe",
         "bin\\emacsclientw.exe",
         "bin\\etags.exe",
-        "bin\\hunspell.exe",
         [
             "bin\\emacsclientw.exe",
             "emw",
@@ -39,6 +38,11 @@
             "bin\\runemacs.exe",
             "Emacs Daemon",
             "--daemon"
+        ],
+        [
+            "bin\\runemacs.exe",
+            "Emacs Debug"
+            "-Q"
         ]
     ]
 }
