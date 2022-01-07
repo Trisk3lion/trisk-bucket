@@ -41,7 +41,7 @@
         ],
         [
             "bin\\runemacs.exe",
-            "Emacs Debug"
+            "Emacs Debug",
             "-Q"
         ]
     ]
