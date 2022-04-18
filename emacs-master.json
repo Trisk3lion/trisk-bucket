@@ -4,7 +4,7 @@
     "license": "GPLv3",
     "version": "0.220414.e5ef0fe83",
     "url": "https://github.com/Trisk3lion/emacs-build/releases/download/v0.220414.e5ef0fe83/emacs-master-x86_64-full.zip",
-    "hash": "2EFE397BBD27950C74EA8AA22E6C44BCD74DDD6CD24A1C026C1C111101C6CB17",
+    "hash": "8aeca59c3ee539355b0aa7aba810b9114224ff49edf286d632213dc249abe3fe",
     "bin": [
         "bin\\runemacs.exe",
         "bin\\emacs.exe",
