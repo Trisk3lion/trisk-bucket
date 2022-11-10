@@ -2,9 +2,9 @@
     "$schema": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
     "homepage": "https://github.com/Trisk3lion/emacs-build",
     "license": "GPLv3",
-    "version": "0.220901.612ff133b",
-    "url": "https://github.com/Trisk3lion/emacs-build/releases/download/v0.220901.612ff133b/emacs-master-x86_64-full.zip",
-    "hash": "319894348B5D6BC32F835DDFF53C2FBFC7A795EC5EBFC442BF8AF256AC54610B",
+    "version": "0.221110.0047bdeb3",
+    "url": "https://github.com/Trisk3lion/emacs-build/releases/download/v0.221110.0047bdeb3/emacs-master-x86_64-full.zip",
+    "hash": "F706A782F52972A2F6F818EED549376226CA0816E86794ACE308C84F9CB80C73",
     "bin": [
         "bin\\runemacs.exe",
         "bin\\emacs.exe",
@@ -42,6 +42,11 @@
         [
             "bin\\runemacs.exe",
             "Emacs Debug",
+            "--debug-init"
+        ],
+		[
+            "bin\\runemacs.exe",
+            "Emacs Q",
             "-Q"
         ]
     ]
