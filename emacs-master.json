@@ -2,9 +2,9 @@
     "$schema": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
     "homepage": "https://github.com/Trisk3lion/emacs-build",
     "license": "GPLv3",
-    "version": "0.221128.a85ff2230",
-    "url": "https://github.com/Trisk3lion/emacs-build/releases/download/v0.221128.a85ff2230/emacs-master-x86_64-full.zip",
-    "hash": "4d31bcda6e4e7fcfe34f9bba759d6f91aeaf7d27dd86e21e2673ceca4249d1ea",
+    "version": "0.230109.ec105a45c",
+    "url": "https://github.com/Trisk3lion/emacs-build/releases/download/v0.230109.ec105a45c/emacs-master-x86_64-full.zip",
+    "hash": "88110a8929f29ba30ace7ac6187a872d02b31e9b8d6d601b91a606d928acda59",
     "bin": [
         "bin\\runemacs.exe",
         "bin\\emacs.exe",
